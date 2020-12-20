@@ -18,7 +18,6 @@ _C++ Programs_
 
 ## Leading Researcher ##
 _**Dr. Aubrey W. Love II**_  
-![Follow Me](https://img.shields.io/twitter/follow/H4ck3rB10?label=Follow%20Me&style=social)  
 ![My Followers](https://img.shields.io/twitter/follow/H4ck3rB10?label=Following%20%40H4ck3rB10&style=social)  
 [Link to Dr. Love's Twitter](https://twitter.com/H4ck3rB10)  
 [Link to Dr. Love's LinkedIn](https://www.linkedin.com/in/dr-aubrey-love-ii-0051b1202/)  
