@@ -1,5 +1,5 @@
 # B10 H4z4rd Studios
-![Dr. Aubrey Love](https://pbs.twimg.com/media/Eo1da-YXEAQSoYT?format=jpg&name=small)
+![Dr. Aubrey Love](https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/133623627_465259924860625_2004460922406040861_o.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_ohc=NZgbWOiLVOIAX8vHpGl&_nc_ht=scontent-dfw5-1.xx&oh=fb12d7be0639d418e3fa71d4e2ae6569&oe=60120525)
 
 **B10 H4z4rd Studios** provides research & development for new technologies. These
 technologies can include the following;
