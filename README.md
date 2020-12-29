@@ -15,6 +15,7 @@ _Computer Programming_
 _Ruby on Rails Applications_  
 _Android Applications_  
 _C++ Programs_  
+_Qiskit Programming_
 
 ## Leading Researcher ##
 _**Dr. Aubrey W. Love II**_  
